@@ -1,0 +1,13 @@
+.prettierrc
+*.json
+*.md
+*.mdx
+*.html
+*.css
+*.yml
+node_modules/
+dist/
+target/
+pkg/
+build/
+.github
